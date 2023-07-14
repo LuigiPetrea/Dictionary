@@ -1,0 +1,14 @@
+body{
+    background: url("https://4kwallpapers.com/images/wallpapers/waves-macos-big-sur-colorful-5k-2732x2732-4992.jpg");
+    color: white;
+}
+
+li{
+    list-style: none outside none;
+}
+
+input{
+    padding: 5px;
+    border: none;
+    border-radius: 5px;
+}
